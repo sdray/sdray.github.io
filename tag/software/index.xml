@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/software/</link>
+      <atom:link href="https://sdray.github.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>software</title>
+      <link>https://sdray.github.io/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>The ade4 book is now available</title>
+      <link>https://sdray.github.io/post/ade4book/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/post/ade4book/</guid>
+      <description>&lt;p&gt;This book introduces the ade4 package for R which provides multivariate
+methods for the analysis of ecological data. It is implemented around the mathematical
+concept of the duality diagram, and provides a unified framework for multivariate
+analysis. The authors offer a detailed presentation of the theoretical framework
+of the duality diagram and also of its application to real-world ecological problems.
+These two goals may seem contradictory, as they concern two separate groups of scientists,
+namely statisticians and ecologists. However, statistical ecology has become a scientific
+discipline of its own, and the good use of multivariate data analysis methods by
+ecologists implies a fair knowledge of the mathematical properties of these methods.
+The organization of the book is based on ecological questions, but these questions
+correspond to particular classes of data analysis methods. The first chapters present
+both usual and multiway data analysis methods. Further chapters are dedicated for
+example to the analysis of spatial data, of phylogenetic structures, and of biodiversity
+patterns. One chapter deals with multivariate data analysis graphs. In each chapter,
+the basic mathematical definitions of the methods and the outputs of the R functions
+available in ade4 are detailed in two different boxes. The text of the book itself
+can be read independently from these boxes. Thus the book offers the opportunity
+to find information about the ecological situation from which a question raises
+alongside the mathematical properties of methods that can be applied to answer this
+question, as well as the details of software outputs. Each example and all the graphs
+in this book come with executable R code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

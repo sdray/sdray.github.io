@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Beja | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/pedro-beja/</link>
+      <atom:link href="https://sdray.github.io/author/pedro-beja/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Beja</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Pedro Beja</title>
+      <link>https://sdray.github.io/author/pedro-beja/</link>
+    </image>
+    
+    <item>
+      <title>Does local habitat fragmentation affect large-scale distributions? The case of a specialist grassland bird</title>
+      <link>https://sdray.github.io/publication/reino-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/reino-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

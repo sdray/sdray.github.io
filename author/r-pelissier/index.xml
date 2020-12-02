@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Pélissier | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/r-pelissier/</link>
+      <atom:link href="https://sdray.github.io/author/r-pelissier/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Pélissier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>R Pélissier</title>
+      <link>https://sdray.github.io/author/r-pelissier/</link>
+    </image>
+    
+    <item>
+      <title>Community ecology in the age of multivariate multiscale spatial analysis</title>
+      <link>https://sdray.github.io/publication/dray-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing or explaining beta diversity? Comment.</title>
+      <link>https://sdray.github.io/publication/pelissier-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency between ordination techniques and diversity measurements: two alternative strategies for species occurrence data</title>
+      <link>https://sdray.github.io/publication/pelissier-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Within-plot relationships between tree species occurrences and hydrological soil constraints: an example in French Guiana investigated through canonical correlation analysis</title>
+      <link>https://sdray.github.io/publication/pelissier-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

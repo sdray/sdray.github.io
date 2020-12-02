@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandrine Pavoine | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/sandrine-pavoine/</link>
+      <atom:link href="https://sdray.github.io/author/sandrine-pavoine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandrine Pavoine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Sandrine Pavoine</title>
+      <link>https://sdray.github.io/author/sandrine-pavoine/</link>
+    </image>
+    
+    <item>
+      <title>Multivariate Analysis of Ecological Data with ade4</title>
+      <link>https://sdray.github.io/publication/thioulouse-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considering external information to improve the phylogenetic comparison of microbial communities: a new approach based on constrained Double Principal Coordinates Analysis (cDPCoA)</title>
+      <link>https://sdray.github.io/publication/dray-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical ecology comes of age</title>
+      <link>https://sdray.github.io/publication/gimenez-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/gimenez-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining the fourth-corner and the RLQ methods for assessing trait responses to environmental variation</title>
+      <link>https://sdray.github.io/publication/dray-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A guide for using functional diversity indices to reveal changes in assembly processes along ecological gradients</title>
+      <link>https://sdray.github.io/publication/mason-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/mason-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

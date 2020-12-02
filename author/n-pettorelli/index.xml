@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Pettorelli | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/n-pettorelli/</link>
+      <atom:link href="https://sdray.github.io/author/n-pettorelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Pettorelli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>N Pettorelli</title>
+      <link>https://sdray.github.io/author/n-pettorelli/</link>
+    </image>
+    
+    <item>
+      <title>Coupling principal component analysis and GIS to map deer habitats</title>
+      <link>https://sdray.github.io/publication/pettorelli-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate analysis of incomplete mapped data</title>
+      <link>https://sdray.github.io/publication/dray-2003-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial variation in springtime food resources influences the winter body mass of roe deer fawn</title>
+      <link>https://sdray.github.io/publication/pettorelli-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching data sets from two different spatial samples</title>
+      <link>https://sdray.github.io/publication/dray-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The distribution of preferred plant species in spring determines spatial variation in the body mass of roe deer fawns in winter</title>
+      <link>https://sdray.github.io/publication/pettorelli-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

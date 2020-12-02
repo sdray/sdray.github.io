@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Maillard | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/d-maillard/</link>
+      <atom:link href="https://sdray.github.io/author/d-maillard/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Maillard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>D Maillard</title>
+      <link>https://sdray.github.io/author/d-maillard/</link>
+    </image>
+    
+    <item>
+      <title>Coupling principal component analysis and GIS to map deer habitats</title>
+      <link>https://sdray.github.io/publication/pettorelli-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
