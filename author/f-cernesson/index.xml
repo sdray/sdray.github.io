@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Cernesson | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/f-cernesson/</link>
+      <atom:link href="https://sdray.github.io/author/f-cernesson/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Cernesson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>F Cernesson</title>
+      <link>https://sdray.github.io/author/f-cernesson/</link>
+    </image>
+    
+    <item>
+      <title>How can ecological status be summarized for an operational Pressures/States model ?</title>
+      <link>https://sdray.github.io/publication/lalande-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/lalande-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

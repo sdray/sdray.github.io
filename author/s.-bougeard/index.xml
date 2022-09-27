@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Bougeard | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/s.-bougeard/</link>
+      <atom:link href="https://sdray.github.io/author/s.-bougeard/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Bougeard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Bougeard</title>
+      <link>https://sdray.github.io/author/s.-bougeard/</link>
+    </image>
+    
+    <item>
+      <title>Développement de méthodes de régression multibloc pour le traitement des données d’épidémiologie vétérinaire. Des besoins statistiques des épidémiologistes au développement d’un package R</title>
+      <link>https://sdray.github.io/publication/bougeard-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse de (K&#43;1) tableaux avec le logiciel ade4. Application en épidémiologie</title>
+      <link>https://sdray.github.io/publication/bougeard-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

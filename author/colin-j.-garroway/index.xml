@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin J. Garroway | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/colin-j.-garroway/</link>
+      <atom:link href="https://sdray.github.io/author/colin-j.-garroway/index.xml" rel="self" type="application/rss+xml" />
+    <description>Colin J. Garroway</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Colin J. Garroway</title>
+      <link>https://sdray.github.io/author/colin-j.-garroway/</link>
+    </image>
+    
+    <item>
+      <title>Determinants of genetic diversity and species richness of North American amphibians</title>
+      <link>https://sdray.github.io/publication/schmidt-2022-a/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schmidt-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and species‐level biodiversity patterns are linked by demography and ecological opportunity</title>
+      <link>https://sdray.github.io/publication/schmidt-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schmidt-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Covain | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/r.-covain/</link>
+      <atom:link href="https://sdray.github.io/author/r.-covain/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Covain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Covain</title>
+      <link>https://sdray.github.io/author/r.-covain/</link>
+    </image>
+    
+    <item>
+      <title>Corrigendum to \&#34;Assessing phylogenetic dependence of morphological traits using co-inertia prior to investigate character evolution in Loricariinae catfishes\&#34; Mol. Phylogenet. Evol. 46 (2008) 986-1002 (DOI:10.1016/j.ympev.2007.12.015)</title>
+      <link>https://sdray.github.io/publication/covain-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

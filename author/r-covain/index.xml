@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Covain | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/r-covain/</link>
+      <atom:link href="https://sdray.github.io/author/r-covain/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Covain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>R Covain</title>
+      <link>https://sdray.github.io/author/r-covain/</link>
+    </image>
+    
+    <item>
+      <title>The Harttiini (Siluriformes, Loricariidae) from the Guianas: a multi-table approach to assess their diversity, evolution, and distribution</title>
+      <link>https://sdray.github.io/publication/covain-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting phylogenetic signal in morphometric data to complete molecular phylogenies: a case study on Harttiini (Siluriformes, Loricariidae) from the Guianas</title>
+      <link>https://sdray.github.io/publication/covain-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les Harttiini (Siluriformes, Loricariidae) des Guyanes : phylogénie et évolution des formes ou variation sur un même thème.</title>
+      <link>https://sdray.github.io/publication/covain-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogeny and evolution of shapes: a new approach to predict phylogenetic positions of missing taxa</title>
+      <link>https://sdray.github.io/publication/covain-2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing phylogenetic dependence of morphological traits using co-inertia prior to investigate character evolution in Loricariinae catfishes</title>
+      <link>https://sdray.github.io/publication/covain-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse morphologique et phylogénétique de la sous famille des Loricariinae (Siluriformes, Loricariidae)</title>
+      <link>https://sdray.github.io/publication/covain-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological and phylogenetic study of the subfamily Loricariinae (Siluriformes, Loricariidae)</title>
+      <link>https://sdray.github.io/publication/covain-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2006-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

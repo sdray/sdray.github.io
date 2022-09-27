@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fourth-corner analysis | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/fourth-corner-analysis/</link>
+      <atom:link href="https://sdray.github.io/tag/fourth-corner-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>fourth-corner analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>fourth-corner analysis</title>
+      <link>https://sdray.github.io/tag/fourth-corner-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Integrating spatial and phylogenetic information in the fourth-corner analysis to test trait-environment relationships</title>
+      <link>https://sdray.github.io/publication/braga-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/braga-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling plant trait responses to livestock grazing from spatio-temporal variation: the partial RLQ approach</title>
+      <link>https://sdray.github.io/publication/wesuls-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/wesuls-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

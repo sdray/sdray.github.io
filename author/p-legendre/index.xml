@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Legendre | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/p-legendre/</link>
+      <atom:link href="https://sdray.github.io/author/p-legendre/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Legendre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>P Legendre</title>
+      <link>https://sdray.github.io/author/p-legendre/</link>
+    </image>
+    
+    <item>
+      <title>Community ecology in the age of multivariate multiscale spatial analysis</title>
+      <link>https://sdray.github.io/publication/dray-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships between species feeding traits and environmental conditions in fish communities: a three-matrix approach</title>
+      <link>https://sdray.github.io/publication/brind-amour-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the species traits-environment relationships: the fourth-corner problem revisited</title>
+      <link>https://sdray.github.io/publication/dray-2008-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource partitioning in a grazer guild feeding on a multilayer diatom mat</title>
+      <link>https://sdray.github.io/publication/tall-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tall-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial modeling: a comprehensive framework for principal coordinate analysis of neighbor matrices (PCNM)</title>
+      <link>https://sdray.github.io/publication/dray-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation partitioning of species data matrices: estimation and comparison of fractions</title>
+      <link>https://sdray.github.io/publication/peres-neto-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation partitioning of species data matrices: estimation and comparison of fractions</title>
+      <link>https://sdray.github.io/publication/peres-neto-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two solutions to the fourth corner problem</title>
+      <link>https://sdray.github.io/publication/legendre-2004/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/legendre-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

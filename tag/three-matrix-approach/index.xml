@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>three-matrix approach | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/three-matrix-approach/</link>
+      <atom:link href="https://sdray.github.io/tag/three-matrix-approach/index.xml" rel="self" type="application/rss+xml" />
+    <description>three-matrix approach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>three-matrix approach</title>
+      <link>https://sdray.github.io/tag/three-matrix-approach/</link>
+    </image>
+    
+    <item>
+      <title>Relationships between species feeding traits and environmental conditions in fish communities: a three-matrix approach</title>
+      <link>https://sdray.github.io/publication/brind-amour-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

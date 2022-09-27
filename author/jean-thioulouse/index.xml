@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Thioulouse | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/jean-thioulouse/</link>
+      <atom:link href="https://sdray.github.io/author/jean-thioulouse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Thioulouse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Jean Thioulouse</title>
+      <link>https://sdray.github.io/author/jean-thioulouse/</link>
+    </image>
+    
+    <item>
+      <title>Overcoming the Spurious Groups Problem in Between-Group PCA</title>
+      <link>https://sdray.github.io/publication/thioulouse-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Analysis of Ecological Data with ade4</title>
+      <link>https://sdray.github.io/publication/thioulouse-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adegraphics: an S4 lattice-based package for the representation of multivariate data</title>
+      <link>https://sdray.github.io/publication/siberchicot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adegraphics : un package pour la représentation et l&#39;analyse de données multivariées</title>
+      <link>https://sdray.github.io/publication/siberchicot-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De la biologie à l&#39;algèbre linéaire ... en passant par R. Expérimenter la notion de projection</title>
+      <link>https://sdray.github.io/publication/dufour-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dufour-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodes de couplage de deux K-tableaux et collections de graphiques</title>
+      <link>https://sdray.github.io/publication/thioulouse-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

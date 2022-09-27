@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathieu Douhard | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/mathieu-douhard/</link>
+      <atom:link href="https://sdray.github.io/author/mathieu-douhard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathieu Douhard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Mathieu Douhard</title>
+      <link>https://sdray.github.io/author/mathieu-douhard/</link>
+    </image>
+    
+    <item>
+      <title>Are human natal sex ratio differences across the world adaptive? A test of Fisher&#39;s principle</title>
+      <link>https://sdray.github.io/publication/douhard-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/douhard-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

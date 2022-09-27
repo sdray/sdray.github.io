@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multivarié | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/multivarie/</link>
+      <atom:link href="https://sdray.github.io/tag/multivarie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multivarié</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Multivarié</title>
+      <link>https://sdray.github.io/tag/multivarie/</link>
+    </image>
+    
+    <item>
+      <title>Spatial modeling: a comprehensive framework for distance-based eigenvector maps (DBEM)</title>
+      <link>https://sdray.github.io/publication/dray-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Couplage de données issues de deux plans d&#39;échantillonnage distincts d&#39;un même espace</title>
+      <link>https://sdray.github.io/publication/dray-2003-e/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate analysis of incomplete mapped data</title>
+      <link>https://sdray.github.io/publication/dray-2003-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial variation in springtime food resources influences the winter body mass of roe deer fawn</title>
+      <link>https://sdray.github.io/publication/pettorelli-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching data sets from two different spatial samples</title>
+      <link>https://sdray.github.io/publication/dray-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling bovine trypanosomosis spatial distribution by GIS in an agro-pastoral zone of Burkina Faso</title>
+      <link>https://sdray.github.io/publication/michel-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/michel-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cajo J.F. ter Braak | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/cajo-j.f.-ter-braak/</link>
+      <atom:link href="https://sdray.github.io/author/cajo-j.f.-ter-braak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cajo J.F. ter Braak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Cajo J.F. ter Braak</title>
+      <link>https://sdray.github.io/author/cajo-j.f.-ter-braak/</link>
+    </image>
+    
+    <item>
+      <title>Investigating microbial associations from sequencing survey data with co-correspondence analysis</title>
+      <link>https://sdray.github.io/publication/alric-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/alric-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms and biplots for double constrained correspondence analysis</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple parametric tests for trait–environment association</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking trait variation to the environment: Critical issues with community-weighted mean correlation resolved by the fourth-corner approach</title>
+      <link>https://sdray.github.io/publication/peres-neto-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining the fourth-corner and the RLQ methods for assessing trait responses to environmental variation</title>
+      <link>https://sdray.github.io/publication/dray-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

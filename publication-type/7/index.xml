@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Stéphane Dray</title>
+    <link>https://sdray.github.io/publication-type/7/</link>
+      <atom:link href="https://sdray.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://sdray.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Environnement, traits, espace et phylogénie : intégrer des contraintes dans l’analyse d’un tableau écologique</title>
+      <link>https://sdray.github.io/publication/dray-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eléments d&#39;interface entre analyses multivariées, systèmes d&#39;information géographique et observations écologiques</title>
+      <link>https://sdray.github.io/publication/dray-2003-f/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;ordination des listes d&#39;occurrences : quand l&#39;analyse canonique des correspondances est une analyse canonique</title>
+      <link>https://sdray.github.io/publication/dray-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation des listes d&#39;occurrences spécifiques spatialisées en écologie et biogéographie</title>
+      <link>https://sdray.github.io/publication/dray-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

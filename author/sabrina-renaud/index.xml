@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sabrina Renaud | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/sabrina-renaud/</link>
+      <atom:link href="https://sdray.github.io/author/sabrina-renaud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sabrina Renaud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Sabrina Renaud</title>
+      <link>https://sdray.github.io/author/sabrina-renaud/</link>
+    </image>
+    
+    <item>
+      <title>Overcoming the Spurious Groups Problem in Between-Group PCA</title>
+      <link>https://sdray.github.io/publication/thioulouse-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

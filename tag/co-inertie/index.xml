@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Co-Inertie | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/co-inertie/</link>
+      <atom:link href="https://sdray.github.io/tag/co-inertie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Co-Inertie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Co-Inertie</title>
+      <link>https://sdray.github.io/tag/co-inertie/</link>
+    </image>
+    
+    <item>
+      <title>Procrustean co-inertia analysis for the linking of multivariate data sets</title>
+      <link>https://sdray.github.io/publication/dray-2003-d/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching data sets from two different spatial samples</title>
+      <link>https://sdray.github.io/publication/dray-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

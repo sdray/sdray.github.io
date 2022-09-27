@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Thioulouse | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/j-thioulouse/</link>
+      <atom:link href="https://sdray.github.io/author/j-thioulouse/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Thioulouse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>J Thioulouse</title>
+      <link>https://sdray.github.io/author/j-thioulouse/</link>
+    </image>
+    
+    <item>
+      <title>Community ecology in the age of multivariate multiscale spatial analysis</title>
+      <link>https://sdray.github.io/publication/dray-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive multivariate data analysis in R with the ade4 and ade4TkGUI packages</title>
+      <link>https://sdray.github.io/publication/thioulouse-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-inertia analysis and the linking of ecological data tables</title>
+      <link>https://sdray.github.io/publication/dray-2003-c/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procrustean co-inertia analysis for the linking of multivariate data sets</title>
+      <link>https://sdray.github.io/publication/dray-2003-d/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

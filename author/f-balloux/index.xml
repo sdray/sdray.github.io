@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Balloux | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/f-balloux/</link>
+      <atom:link href="https://sdray.github.io/author/f-balloux/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Balloux</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>F Balloux</title>
+      <link>https://sdray.github.io/author/f-balloux/</link>
+    </image>
+    
+    <item>
+      <title>adephylo: new tools for investigating the phylogenetic signal in biological traits</title>
+      <link>https://sdray.github.io/publication/jombart-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/jombart-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

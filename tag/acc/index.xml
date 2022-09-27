@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACC | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/acc/</link>
+      <atom:link href="https://sdray.github.io/tag/acc/index.xml" rel="self" type="application/rss+xml" />
+    <description>ACC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>ACC</title>
+      <link>https://sdray.github.io/tag/acc/</link>
+    </image>
+    
+    <item>
+      <title>L&#39;ordination des listes d&#39;occurrences : quand l&#39;analyse canonique des correspondances est une analyse canonique</title>
+      <link>https://sdray.github.io/publication/dray-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation des listes d&#39;occurrences spécifiques spatialisées en écologie et biogéographie</title>
+      <link>https://sdray.github.io/publication/dray-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

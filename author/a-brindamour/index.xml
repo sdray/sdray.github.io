@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Brind&#39;Amour | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/a-brindamour/</link>
+      <atom:link href="https://sdray.github.io/author/a-brindamour/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Brind&#39;Amour</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>A Brind&#39;Amour</title>
+      <link>https://sdray.github.io/author/a-brindamour/</link>
+    </image>
+    
+    <item>
+      <title>Relationships between species feeding traits and environmental conditions in fish communities: a three-matrix approach</title>
+      <link>https://sdray.github.io/publication/brind-amour-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

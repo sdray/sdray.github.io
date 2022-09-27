@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Stéphane Dray</title>
+    <link>https://sdray.github.io/publication/</link>
+      <atom:link href="https://sdray.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://sdray.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Determinants of genetic diversity and species richness of North American amphibians</title>
+      <link>https://sdray.github.io/publication/schmidt-2022-a/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schmidt-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An appraisal of graph embeddings for comparing trophic network architectures</title>
+      <link>https://sdray.github.io/publication/botella-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/botella-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Advances in Statistical Ecology: New Methods and Software</title>
+      <link>https://sdray.github.io/publication/guillot-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/guillot-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and species‐level biodiversity patterns are linked by demography and ecological opportunity</title>
+      <link>https://sdray.github.io/publication/schmidt-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schmidt-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming the Spurious Groups Problem in Between-Group PCA</title>
+      <link>https://sdray.github.io/publication/thioulouse-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long‐term high densities of African elephants clear the understorey and promote a new stable savanna woodland community</title>
+      <link>https://sdray.github.io/publication/ferry-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are human natal sex ratio differences across the world adaptive? A test of Fisher&#39;s principle</title>
+      <link>https://sdray.github.io/publication/douhard-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/douhard-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images, écologie et deep learning</title>
+      <link>https://sdray.github.io/publication/miele-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can an herbivore affect where a top predator kills its prey by modifying woody vegetation structure?</title>
+      <link>https://sdray.github.io/publication/ferry-2020-a/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flower phenology as a disruptor of the fruiting dynamics in temperate oak species</title>
+      <link>https://sdray.github.io/publication/schermer-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schermer-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity of water physico-chemical characteristics in artificially pumped waterholes: do African herbivores drink at the same locations and does it lead to interference competition?</title>
+      <link>https://sdray.github.io/publication/ferry-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating microbial associations from sequencing survey data with co-correspondence analysis</title>
+      <link>https://sdray.github.io/publication/alric-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/alric-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to deal with missing and confounding variables in multivariate analysis?</title>
+      <link>https://sdray.github.io/publication/dray-2019-a/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portail web pour soumettre, formater et partager des jeux de données dans R</title>
+      <link>https://sdray.github.io/publication/dray-2019-b/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse des structures spatiales multivariées en écologie des communautés avec le package adespatial</title>
+      <link>https://sdray.github.io/publication/dray-2019-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity indices for ecological networks: a unifying framework using Hill numbers</title>
+      <link>https://sdray.github.io/publication/ohlmann-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ohlmann-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moran eigenvector filters for the analysis of ecological data : are they really multiscale?</title>
+      <link>https://sdray.github.io/publication/dray-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nine quick tips for analyzing network data</title>
+      <link>https://sdray.github.io/publication/miele-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypic plasticity in the invasive pest Drosophila suzukii: Activity rhythms and gene expression in response to temperature</title>
+      <link>https://sdray.github.io/publication/plantamp-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/plantamp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial analyses of multi‐trophic terrestrial vertebrate assemblages in Europe</title>
+      <link>https://sdray.github.io/publication/braga-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/braga-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the Mantel statistic with a spatially-constrained permutation procedure</title>
+      <link>https://sdray.github.io/publication/crabot-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/crabot-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms and biplots for double constrained correspondence analysis</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond neutrality: disentangling the effects of species sorting and spurious correlations in community analysis</title>
+      <link>https://sdray.github.io/publication/clappe-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/clappe-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling good from bad practices in the selection of spatial or phylogenetic eigenvectors</title>
+      <link>https://sdray.github.io/publication/bauman-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bauman-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating spatial and phylogenetic information in the fourth-corner analysis to test trait-environment relationships</title>
+      <link>https://sdray.github.io/publication/braga-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/braga-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Analysis of Ecological Data with ade4</title>
+      <link>https://sdray.github.io/publication/thioulouse-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the choice of a spatial weighting matrix in eigenvector-based methods</title>
+      <link>https://sdray.github.io/publication/bauman-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bauman-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple parametric tests for trait–environment association</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Multiblock Analysis in R with the ade4 Package</title>
+      <link>https://sdray.github.io/publication/bougeard-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Couplage des données de biodiversité : prise en compte de l’originalité des structures de données</title>
+      <link>https://sdray.github.io/publication/dray-2017-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A critical issue in model-based inference for studying trait-based community assembly and a solution</title>
+      <link>https://sdray.github.io/publication/ter-braak-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adegraphics: an S4 lattice-based package for the representation of multivariate data</title>
+      <link>https://sdray.github.io/publication/siberchicot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse spatiale multi-échelles de données écologiques avec adespatial</title>
+      <link>https://sdray.github.io/publication/dray-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment, traits, space and phylogeny: integrating constraints in the analysis of ecological data tables</title>
+      <link>https://sdray.github.io/publication/dray-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors shaping community assemblages and species occurrence of different trophic levels</title>
+      <link>https://sdray.github.io/publication/trivellone-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/trivellone-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking trait variation to the environment: Critical issues with community-weighted mean correlation resolved by the fourth-corner approach</title>
+      <link>https://sdray.github.io/publication/peres-neto-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The global spectrum of plant form and function</title>
+      <link>https://sdray.github.io/publication/diaz-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/diaz-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing ecological effects of radiation on populations and ecosystems to improve protection of the environment against radiation: Agreed statements from a Consensus Symposium.</title>
+      <link>https://sdray.github.io/publication/brechignac-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brechignac-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environnement, traits, espace et phylogénie : intégrer des contraintes dans l’analyse d’un tableau écologique</title>
+      <link>https://sdray.github.io/publication/dray-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interspecific interference competition at the resource patch scale: do large herbivores spatially avoid elephants while accessing water?</title>
+      <link>https://sdray.github.io/publication/ferry-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular phylogeny of the highly diversified catfish subfamily Loricariinae (Siluriformes, Loricariidae) reveals incongruences with morphological classification</title>
+      <link>https://sdray.github.io/publication/covain-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial distribution of a large herbivore community at waterholes: An assessment of its stability over years in Hwange National Park, Zimbabwe</title>
+      <link>https://sdray.github.io/publication/chamaille-jammes-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/chamaille-jammes-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The adephylo package</title>
+      <link>https://sdray.github.io/publication/dray-2015-c/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated web server and R package for data sharing and reproducible research in ecology</title>
+      <link>https://sdray.github.io/publication/dray-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considering external information to improve the phylogenetic comparison of microbial communities: a new approach based on constrained Double Principal Coordinates Analysis (cDPCoA)</title>
+      <link>https://sdray.github.io/publication/dray-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating spatially constrained null models for irregularly spaced data using Moran spectral randomization methods</title>
+      <link>https://sdray.github.io/publication/wagner-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/wagner-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal component analysis with missing values: a comparative survey of methods</title>
+      <link>https://sdray.github.io/publication/dray-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical ecology comes of age</title>
+      <link>https://sdray.github.io/publication/gimenez-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/gimenez-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated web server and R package for data sharing and reproducible research in ecology</title>
+      <link>https://sdray.github.io/publication/dray-2014-b/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing a pair of tables: coinertia analysis and duality diagrams</title>
+      <link>https://sdray.github.io/publication/dray-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining the fourth-corner and the RLQ methods for assessing trait responses to environmental variation</title>
+      <link>https://sdray.github.io/publication/dray-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional analysis of Normalized Difference Vegetation Index curves reveals overwinter mule deer survival is driven by both spring and autumn phenology</title>
+      <link>https://sdray.github.io/publication/hurley-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/hurley-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially constrained clustering of ecological networks</title>
+      <link>https://sdray.github.io/publication/miele-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A guide for using functional diversity indices to reveal changes in assembly processes along ecological gradients</title>
+      <link>https://sdray.github.io/publication/mason-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/mason-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adegraphics : un package pour la représentation et l&#39;analyse de données multivariées</title>
+      <link>https://sdray.github.io/publication/siberchicot-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference Report: Deuxièmes Rencontres R</title>
+      <link>https://sdray.github.io/publication/siberchicot-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De la biologie à l&#39;algèbre linéaire ... en passant par R. Expérimenter la notion de projection</title>
+      <link>https://sdray.github.io/publication/dufour-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dufour-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of multi-block regression analysis to process veterinary epidemiological data. From statistical needs of epidemiologists to development of R package</title>
+      <link>https://sdray.github.io/publication/bougeard-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does local habitat fragmentation affect large-scale distributions? The case of a specialist grassland bird</title>
+      <link>https://sdray.github.io/publication/reino-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/reino-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement de méthodes de régression multibloc pour le traitement des données d’épidémiologie vétérinaire. Des besoins statistiques des épidémiologistes au développement d’un package R</title>
+      <link>https://sdray.github.io/publication/bougeard-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional traits reveal processes driving natural afforestation at large spatial scales.</title>
+      <link>https://sdray.github.io/publication/mason-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/mason-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodes de couplage de deux K-tableaux et collections de graphiques</title>
+      <link>https://sdray.github.io/publication/thioulouse-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reciprocal modulation of internal and external factors determines individual movements.</title>
+      <link>https://sdray.github.io/publication/martin-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/martin-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un site web d&#39;enseignement R automatisé et à gestion partagée</title>
+      <link>https://sdray.github.io/publication/penel-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/penel-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ade4: statistical methods and graphical functions for the analysis of multivariate data</title>
+      <link>https://sdray.github.io/publication/dray-2012-b/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ade4: statistical methods and graphical functions for the analysis of multivariate data</title>
+      <link>https://sdray.github.io/publication/dray-2012-a/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing species and community functional responses to environmental gradients: which multivariate methods?</title>
+      <link>https://sdray.github.io/publication/kleyer-2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/kleyer-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse de (K&#43;1) tableaux avec le logiciel ade4. Application en épidémiologie</title>
+      <link>https://sdray.github.io/publication/bougeard-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the effects of spatial contingency and environmental filtering on metacommunity phylogenetics</title>
+      <link>https://sdray.github.io/publication/peres-neto-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community ecology in the age of multivariate multiscale spatial analysis</title>
+      <link>https://sdray.github.io/publication/dray-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling plant trait responses to livestock grazing from spatio-temporal variation: the partial RLQ approach</title>
+      <link>https://sdray.github.io/publication/wesuls-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/wesuls-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to measure and test phylogenetic signal</title>
+      <link>https://sdray.github.io/publication/munkemuller-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/munkemuller-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved testing of species traits-environment relationships in the fourth corner problem</title>
+      <link>https://sdray.github.io/publication/ter-braak-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predator-prey spatial game as a tool to understand the effects of protected areas on harvester-wildlife interactions</title>
+      <link>https://sdray.github.io/publication/tolon-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Harttiini (Siluriformes, Loricariidae) from the Guianas: a multi-table approach to assess their diversity, evolution, and distribution</title>
+      <link>https://sdray.github.io/publication/covain-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation de données multivariées: réimplémentation des fonctionnalités graphiques de la librairie ade4</title>
+      <link>https://sdray.github.io/publication/julien-laferriere-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/julien-laferriere-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking traits to environmental variation</title>
+      <link>https://sdray.github.io/publication/dray-2011-d/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new perspective about Moran&#39;s coefficient: spatial autocorrelation as a linear regression problem</title>
+      <link>https://sdray.github.io/publication/dray-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing spatial multivariate structures</title>
+      <link>https://sdray.github.io/publication/dray-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How can ecological status be summarized for an operational Pressures/States model ?</title>
+      <link>https://sdray.github.io/publication/lalande-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/lalande-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate analysis of ecological data with ade4</title>
+      <link>https://sdray.github.io/publication/dray-2011-c/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships between species feeding traits and environmental conditions in fish communities: a three-matrix approach</title>
+      <link>https://sdray.github.io/publication/brind-amour-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Guerry&#39;s data: introducing spatial constraints in multivariate analysis</title>
+      <link>https://sdray.github.io/publication/dray-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développements méthodologiques autour de l&#39;analyse de données écologiques</title>
+      <link>https://sdray.github.io/publication/dray-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une approche multivariée pour la recherche de structures phylogénétiques dans les données biologiques</title>
+      <link>https://sdray.github.io/publication/jombart-2010-b/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/jombart-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Some elements of) Spatial ecological data analysis</title>
+      <link>https://sdray.github.io/publication/dray-2010-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adephylo: new tools for investigating the phylogenetic signal in biological traits</title>
+      <link>https://sdray.github.io/publication/jombart-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/jombart-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses multivariées et mesures d&#39;autocorrélation spatiale pour l&#39;analyse des assemblages d&#39;espèces</title>
+      <link>https://sdray.github.io/publication/dray-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrigendum to \&#34;Assessing phylogenetic dependence of morphological traits using co-inertia prior to investigate character evolution in Loricariinae catfishes\&#34; Mol. Phylogenet. Evol. 46 (2008) 986-1002 (DOI:10.1016/j.ympev.2007.12.015)</title>
+      <link>https://sdray.github.io/publication/covain-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make love not war: when should less competitive males choose low-quality but defendable females?</title>
+      <link>https://sdray.github.io/publication/venner-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/venner-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some methodological developments around the spatial weighting matrix in ecology</title>
+      <link>https://sdray.github.io/publication/dray-2010-d/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The exploratory analysis of autocorrelation in animal-movement studies</title>
+      <link>https://sdray.github.io/publication/dray-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting phylogenetic signal in morphometric data to complete molecular phylogenies: a case study on Harttiini (Siluriformes, Loricariidae) from the Guianas</title>
+      <link>https://sdray.github.io/publication/covain-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding essential scales of spatial variation in ecological data: a multivariate approach</title>
+      <link>https://sdray.github.io/publication/jombart-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/jombart-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les Harttiini (Siluriformes, Loricariidae) des Guyanes : phylogénie et évolution des formes ou variation sur un même thème.</title>
+      <link>https://sdray.github.io/publication/covain-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogeny and evolution of shapes: a new approach to predict phylogenetic positions of missing taxa</title>
+      <link>https://sdray.github.io/publication/covain-2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responding to spatial and temporal variations in predation risk: space use of a game species in a changing landscape of fear</title>
+      <link>https://sdray.github.io/publication/tolon-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The concept of animals trajectories from a data analysis perspective</title>
+      <link>https://sdray.github.io/publication/calenge-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/calenge-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing or explaining beta diversity? Comment.</title>
+      <link>https://sdray.github.io/publication/pelissier-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing phylogenetic dependence of morphological traits using co-inertia prior to investigate character evolution in Loricariinae catfishes</title>
+      <link>https://sdray.github.io/publication/covain-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the number of principal components: A test of dimensionality based on measurements of similarity between matrices</title>
+      <link>https://sdray.github.io/publication/dray-2008-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial ordination of vegetation data using a generalization of Wartenberg&#39;s multivariate spatial correlation</title>
+      <link>https://sdray.github.io/publication/dray-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the species traits-environment relationships: the fourth-corner problem revisited</title>
+      <link>https://sdray.github.io/publication/dray-2008-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unexpected male choosiness for mates in a spider</title>
+      <link>https://sdray.github.io/publication/bel-venner-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bel-venner-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>\&#34;Reserve effect\&#34; on the space use of game mammals: the case of wild boar</title>
+      <link>https://sdray.github.io/publication/tolon-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive multivariate data analysis in R with the ade4 and ade4TkGUI packages</title>
+      <link>https://sdray.github.io/publication/thioulouse-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing sexual segregation and aggregation: old ways are best</title>
+      <link>https://sdray.github.io/publication/bonenfant-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bonenfant-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ade4 package - II: Two-table and K-table methods</title>
+      <link>https://sdray.github.io/publication/dray-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ade4 package: implementing the duality diagram for ecologists</title>
+      <link>https://sdray.github.io/publication/dray-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse morphologique et phylogénétique de la sous famille des Loricariinae (Siluriformes, Loricariidae)</title>
+      <link>https://sdray.github.io/publication/covain-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of hunting activities on the spatial behaviour of the wild boar: attractiveness of safe areas</title>
+      <link>https://sdray.github.io/publication/tolon-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological and phylogenetic study of the subfamily Loricariinae (Siluriformes, Loricariidae)</title>
+      <link>https://sdray.github.io/publication/covain-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource partitioning in a grazer guild feeding on a multilayer diatom mat</title>
+      <link>https://sdray.github.io/publication/tall-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tall-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial modeling: a comprehensive framework for principal coordinate analysis of neighbor matrices (PCNM)</title>
+      <link>https://sdray.github.io/publication/dray-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation partitioning of species data matrices: estimation and comparison of fractions</title>
+      <link>https://sdray.github.io/publication/peres-neto-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking into account spatial dependence in multivariate analysis: a generalization of Wartenberg&#39;s multivariate spatial correlation</title>
+      <link>https://sdray.github.io/publication/dray-2005-a/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling principal component analysis and GIS to map deer habitats</title>
+      <link>https://sdray.github.io/publication/pettorelli-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial modeling: a comprehensive framework for distance-based eigenvector maps (DBEM)</title>
+      <link>https://sdray.github.io/publication/dray-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation partitioning of species data matrices: estimation and comparison of fractions</title>
+      <link>https://sdray.github.io/publication/peres-neto-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nouvelles méthodes d&#39;analyse spatiale multivariée de données incomplètes</title>
+      <link>https://sdray.github.io/publication/dray-2004/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two solutions to the fourth corner problem</title>
+      <link>https://sdray.github.io/publication/legendre-2004/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/legendre-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse spatialisée de données écologiques multivariées</title>
+      <link>https://sdray.github.io/publication/dray-2003-a/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad-scale biodiversity pattern of the endemic tree flora of the Western Ghats (India) using canonical correlation analysis of herbarium records</title>
+      <link>https://sdray.github.io/publication/gimaret-carpentier-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/gimaret-carpentier-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartographie et analyse de données multivariées</title>
+      <link>https://sdray.github.io/publication/dray-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-inertia analysis and the linking of ecological data tables</title>
+      <link>https://sdray.github.io/publication/dray-2003-c/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency between ordination techniques and diversity measurements: two alternative strategies for species occurrence data</title>
+      <link>https://sdray.github.io/publication/pelissier-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Couplage de données issues de deux plans d&#39;échantillonnage distincts d&#39;un même espace</title>
+      <link>https://sdray.github.io/publication/dray-2003-e/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eléments d&#39;interface entre analyses multivariées, systèmes d&#39;information géographique et observations écologiques</title>
+      <link>https://sdray.github.io/publication/dray-2003-f/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate analysis of incomplete mapped data</title>
+      <link>https://sdray.github.io/publication/dray-2003-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procrustean co-inertia analysis for the linking of multivariate data sets</title>
+      <link>https://sdray.github.io/publication/dray-2003-d/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial variation in springtime food resources influences the winter body mass of roe deer fawn</title>
+      <link>https://sdray.github.io/publication/pettorelli-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching data sets from two different spatial samples</title>
+      <link>https://sdray.github.io/publication/dray-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling bovine trypanosomosis spatial distribution by GIS in an agro-pastoral zone of Burkina Faso</title>
+      <link>https://sdray.github.io/publication/michel-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/michel-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The distribution of preferred plant species in spring determines spatial variation in the body mass of roe deer fawns in winter</title>
+      <link>https://sdray.github.io/publication/pettorelli-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Within-plot relationships between tree species occurrences and hydrological soil constraints: an example in French Guiana investigated through canonical correlation analysis</title>
+      <link>https://sdray.github.io/publication/pelissier-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systèmes d&#39;information géographique : une application à la modélisation d&#39;une maladie à transmission vectorielle au Burkina Faso</title>
+      <link>https://sdray.github.io/publication/dray-2001/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling bovine trypanosomosis spatial distribution by GIS in an agro-pastoral zone of Burkina Faso</title>
+      <link>https://sdray.github.io/publication/michel-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/michel-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;ordination des listes d&#39;occurrences : quand l&#39;analyse canonique des correspondances est une analyse canonique</title>
+      <link>https://sdray.github.io/publication/dray-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation des listes d&#39;occurrences spécifiques spatialisées en écologie et biogéographie</title>
+      <link>https://sdray.github.io/publication/dray-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

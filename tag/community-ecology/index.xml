@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community ecology | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/community-ecology/</link>
+      <atom:link href="https://sdray.github.io/tag/community-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>community ecology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>community ecology</title>
+      <link>https://sdray.github.io/tag/community-ecology/</link>
+    </image>
+    
+    <item>
+      <title>Algorithms and biplots for double constrained correspondence analysis</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating spatial and phylogenetic information in the fourth-corner analysis to test trait-environment relationships</title>
+      <link>https://sdray.github.io/publication/braga-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/braga-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the choice of a spatial weighting matrix in eigenvector-based methods</title>
+      <link>https://sdray.github.io/publication/bauman-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bauman-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple parametric tests for trait–environment association</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

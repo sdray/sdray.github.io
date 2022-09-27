@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Brown | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/justin-brown/</link>
+      <atom:link href="https://sdray.github.io/author/justin-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Justin Brown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Justin Brown</title>
+      <link>https://sdray.github.io/author/justin-brown/</link>
+    </image>
+    
+    <item>
+      <title>Addressing ecological effects of radiation on populations and ecosystems to improve protection of the environment against radiation: Agreed statements from a Consensus Symposium.</title>
+      <link>https://sdray.github.io/publication/brechignac-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brechignac-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

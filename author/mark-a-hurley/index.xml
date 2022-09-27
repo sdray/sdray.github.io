@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark A Hurley | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/mark-a-hurley/</link>
+      <atom:link href="https://sdray.github.io/author/mark-a-hurley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark A Hurley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Mark A Hurley</title>
+      <link>https://sdray.github.io/author/mark-a-hurley/</link>
+    </image>
+    
+    <item>
+      <title>Functional analysis of Normalized Difference Vegetation Index curves reveals overwinter mule deer survival is driven by both spring and autumn phenology</title>
+      <link>https://sdray.github.io/publication/hurley-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/hurley-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

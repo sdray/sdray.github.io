@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Miele | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/vincent-miele/</link>
+      <atom:link href="https://sdray.github.io/author/vincent-miele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Miele</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Vincent Miele</title>
+      <link>https://sdray.github.io/author/vincent-miele/</link>
+    </image>
+    
+    <item>
+      <title>An appraisal of graph embeddings for comparing trophic network architectures</title>
+      <link>https://sdray.github.io/publication/botella-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/botella-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images, écologie et deep learning</title>
+      <link>https://sdray.github.io/publication/miele-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity indices for ecological networks: a unifying framework using Hill numbers</title>
+      <link>https://sdray.github.io/publication/ohlmann-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ohlmann-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nine quick tips for analyzing network data</title>
+      <link>https://sdray.github.io/publication/miele-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially constrained clustering of ecological networks</title>
+      <link>https://sdray.github.io/publication/miele-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

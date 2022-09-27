@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stéphane Dray</title>
+    <link>https://sdray.github.io/</link>
+      <atom:link href="https://sdray.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stéphane Dray</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Stéphane Dray</title>
+      <link>https://sdray.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://sdray.github.io/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Determinants of genetic diversity and species richness of North American amphibians</title>
+      <link>https://sdray.github.io/publication/schmidt-2022-a/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schmidt-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An appraisal of graph embeddings for comparing trophic network architectures</title>
+      <link>https://sdray.github.io/publication/botella-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/botella-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Advances in Statistical Ecology: New Methods and Software</title>
+      <link>https://sdray.github.io/publication/guillot-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/guillot-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and species‐level biodiversity patterns are linked by demography and ecological opportunity</title>
+      <link>https://sdray.github.io/publication/schmidt-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schmidt-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming the Spurious Groups Problem in Between-Group PCA</title>
+      <link>https://sdray.github.io/publication/thioulouse-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long‐term high densities of African elephants clear the understorey and promote a new stable savanna woodland community</title>
+      <link>https://sdray.github.io/publication/ferry-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are human natal sex ratio differences across the world adaptive? A test of Fisher&#39;s principle</title>
+      <link>https://sdray.github.io/publication/douhard-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/douhard-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images, écologie et deep learning</title>
+      <link>https://sdray.github.io/publication/miele-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GdR EcoStat</title>
+      <link>https://sdray.github.io/project/gdr-ecostat/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/project/gdr-ecostat/</guid>
+      <description>&lt;p&gt;The GdR 3645 &lt;em&gt;Ecologie Statistique&lt;/em&gt; is funded by the CNRS INEE. It proposes actions to favor exchanges between french scientists interested in the development and application of statistical methods to answer questions of ecology and evolutionary biology. It facilitates knowledge transfer and exchanges between evolutionary biologists, ecologists and statisticians in order to improve the analysis and processing of biological data.&lt;/p&gt;
+&lt;p&gt;The main objectives of the GDR EcoStat are to&lt;/p&gt;
+&lt;p&gt;(i) evaluate existing statistical methods,&lt;/p&gt;
+&lt;p&gt;ii) to explore the application of recent methods often unknown to ecologists and evolutionary biologists,&lt;/p&gt;
+&lt;p&gt;iii) develop new statistical approaches and&lt;/p&gt;
+&lt;p&gt;iv) to ensure knowledge transfer to potential users of these methods.&lt;/p&gt;
+&lt;p&gt;See more details on the Ecostat &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The ade4 book is now available</title>
+      <link>https://sdray.github.io/post/ade4book/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/post/ade4book/</guid>
+      <description>&lt;p&gt;This book introduces the ade4 package for R which provides multivariate
+methods for the analysis of ecological data. It is implemented around the mathematical
+concept of the duality diagram, and provides a unified framework for multivariate
+analysis. The authors offer a detailed presentation of the theoretical framework
+of the duality diagram and also of its application to real-world ecological problems.
+These two goals may seem contradictory, as they concern two separate groups of scientists,
+namely statisticians and ecologists. However, statistical ecology has become a scientific
+discipline of its own, and the good use of multivariate data analysis methods by
+ecologists implies a fair knowledge of the mathematical properties of these methods.
+The organization of the book is based on ecological questions, but these questions
+correspond to particular classes of data analysis methods. The first chapters present
+both usual and multiway data analysis methods. Further chapters are dedicated for
+example to the analysis of spatial data, of phylogenetic structures, and of biodiversity
+patterns. One chapter deals with multivariate data analysis graphs. In each chapter,
+the basic mathematical definitions of the methods and the outputs of the R functions
+available in ade4 are detailed in two different boxes. The text of the book itself
+can be read independently from these boxes. Thus the book offers the opportunity
+to find information about the ecological situation from which a question raises
+alongside the mathematical properties of methods that can be applied to answer this
+question, as well as the details of software outputs. Each example and all the graphs
+in this book come with executable R code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can an herbivore affect where a top predator kills its prey by modifying woody vegetation structure?</title>
+      <link>https://sdray.github.io/publication/ferry-2020-a/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flower phenology as a disruptor of the fruiting dynamics in temperate oak species</title>
+      <link>https://sdray.github.io/publication/schermer-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/schermer-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity of water physico-chemical characteristics in artificially pumped waterholes: do African herbivores drink at the same locations and does it lead to interference competition?</title>
+      <link>https://sdray.github.io/publication/ferry-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating microbial associations from sequencing survey data with co-correspondence analysis</title>
+      <link>https://sdray.github.io/publication/alric-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/alric-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to deal with missing and confounding variables in multivariate analysis?</title>
+      <link>https://sdray.github.io/publication/dray-2019-a/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>https://sdray.github.io/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
+&lt;p&gt;Academic supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; chart format.&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+&lt;div id=&#34;chart-784215693&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        return;
+      }
+      clearInterval( a );
+
+      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+        Plotly.plot(&#39;chart-784215693&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;spoiler &#34; &gt;
+  &lt;p&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-2&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-2&#34;&gt;
+      Click to view the spoiler
+    &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-2&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+      You found me!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portail web pour soumettre, formater et partager des jeux de données dans R</title>
+      <link>https://sdray.github.io/publication/dray-2019-b/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://sdray.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://sdray.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analyse des structures spatiales multivariées en écologie des communautés avec le package adespatial</title>
+      <link>https://sdray.github.io/publication/dray-2019-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity indices for ecological networks: a unifying framework using Hill numbers</title>
+      <link>https://sdray.github.io/publication/ohlmann-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ohlmann-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moran eigenvector filters for the analysis of ecological data : are they really multiscale?</title>
+      <link>https://sdray.github.io/publication/dray-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nine quick tips for analyzing network data</title>
+      <link>https://sdray.github.io/publication/miele-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypic plasticity in the invasive pest Drosophila suzukii: Activity rhythms and gene expression in response to temperature</title>
+      <link>https://sdray.github.io/publication/plantamp-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/plantamp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial analyses of multi‐trophic terrestrial vertebrate assemblages in Europe</title>
+      <link>https://sdray.github.io/publication/braga-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/braga-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the Mantel statistic with a spatially-constrained permutation procedure</title>
+      <link>https://sdray.github.io/publication/crabot-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/crabot-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms and biplots for double constrained correspondence analysis</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond neutrality: disentangling the effects of species sorting and spurious correlations in community analysis</title>
+      <link>https://sdray.github.io/publication/clappe-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/clappe-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling good from bad practices in the selection of spatial or phylogenetic eigenvectors</title>
+      <link>https://sdray.github.io/publication/bauman-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bauman-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating spatial and phylogenetic information in the fourth-corner analysis to test trait-environment relationships</title>
+      <link>https://sdray.github.io/publication/braga-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/braga-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Analysis of Ecological Data with ade4</title>
+      <link>https://sdray.github.io/publication/thioulouse-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the choice of a spatial weighting matrix in eigenvector-based methods</title>
+      <link>https://sdray.github.io/publication/bauman-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bauman-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple parametric tests for trait–environment association</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Multiblock Analysis in R with the ade4 Package</title>
+      <link>https://sdray.github.io/publication/bougeard-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Couplage des données de biodiversité : prise en compte de l’originalité des structures de données</title>
+      <link>https://sdray.github.io/publication/dray-2017-b/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A critical issue in model-based inference for studying trait-based community assembly and a solution</title>
+      <link>https://sdray.github.io/publication/ter-braak-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adegraphics: an S4 lattice-based package for the representation of multivariate data</title>
+      <link>https://sdray.github.io/publication/siberchicot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse spatiale multi-échelles de données écologiques avec adespatial</title>
+      <link>https://sdray.github.io/publication/dray-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment, traits, space and phylogeny: integrating constraints in the analysis of ecological data tables</title>
+      <link>https://sdray.github.io/publication/dray-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors shaping community assemblages and species occurrence of different trophic levels</title>
+      <link>https://sdray.github.io/publication/trivellone-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/trivellone-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking trait variation to the environment: Critical issues with community-weighted mean correlation resolved by the fourth-corner approach</title>
+      <link>https://sdray.github.io/publication/peres-neto-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The global spectrum of plant form and function</title>
+      <link>https://sdray.github.io/publication/diaz-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/diaz-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANR EcoNet</title>
+      <link>https://sdray.github.io/project/anr-econet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/project/anr-econet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>https://sdray.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;ul&gt;
+&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Addressing ecological effects of radiation on populations and ecosystems to improve protection of the environment against radiation: Agreed statements from a Consensus Symposium.</title>
+      <link>https://sdray.github.io/publication/brechignac-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brechignac-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environnement, traits, espace et phylogénie : intégrer des contraintes dans l’analyse d’un tableau écologique</title>
+      <link>https://sdray.github.io/publication/dray-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interspecific interference competition at the resource patch scale: do large herbivores spatially avoid elephants while accessing water?</title>
+      <link>https://sdray.github.io/publication/ferry-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular phylogeny of the highly diversified catfish subfamily Loricariinae (Siluriformes, Loricariidae) reveals incongruences with morphological classification</title>
+      <link>https://sdray.github.io/publication/covain-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial distribution of a large herbivore community at waterholes: An assessment of its stability over years in Hwange National Park, Zimbabwe</title>
+      <link>https://sdray.github.io/publication/chamaille-jammes-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/chamaille-jammes-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The adephylo package</title>
+      <link>https://sdray.github.io/publication/dray-2015-c/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated web server and R package for data sharing and reproducible research in ecology</title>
+      <link>https://sdray.github.io/publication/dray-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considering external information to improve the phylogenetic comparison of microbial communities: a new approach based on constrained Double Principal Coordinates Analysis (cDPCoA)</title>
+      <link>https://sdray.github.io/publication/dray-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating spatially constrained null models for irregularly spaced data using Moran spectral randomization methods</title>
+      <link>https://sdray.github.io/publication/wagner-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/wagner-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal component analysis with missing values: a comparative survey of methods</title>
+      <link>https://sdray.github.io/publication/dray-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical ecology comes of age</title>
+      <link>https://sdray.github.io/publication/gimenez-2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/gimenez-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated web server and R package for data sharing and reproducible research in ecology</title>
+      <link>https://sdray.github.io/publication/dray-2014-b/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing a pair of tables: coinertia analysis and duality diagrams</title>
+      <link>https://sdray.github.io/publication/dray-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining the fourth-corner and the RLQ methods for assessing trait responses to environmental variation</title>
+      <link>https://sdray.github.io/publication/dray-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional analysis of Normalized Difference Vegetation Index curves reveals overwinter mule deer survival is driven by both spring and autumn phenology</title>
+      <link>https://sdray.github.io/publication/hurley-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/hurley-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially constrained clustering of ecological networks</title>
+      <link>https://sdray.github.io/publication/miele-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/miele-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A guide for using functional diversity indices to reveal changes in assembly processes along ecological gradients</title>
+      <link>https://sdray.github.io/publication/mason-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/mason-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adegraphics : un package pour la représentation et l&#39;analyse de données multivariées</title>
+      <link>https://sdray.github.io/publication/siberchicot-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference Report: Deuxièmes Rencontres R</title>
+      <link>https://sdray.github.io/publication/siberchicot-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/siberchicot-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De la biologie à l&#39;algèbre linéaire ... en passant par R. Expérimenter la notion de projection</title>
+      <link>https://sdray.github.io/publication/dufour-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dufour-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of multi-block regression analysis to process veterinary epidemiological data. From statistical needs of epidemiologists to development of R package</title>
+      <link>https://sdray.github.io/publication/bougeard-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does local habitat fragmentation affect large-scale distributions? The case of a specialist grassland bird</title>
+      <link>https://sdray.github.io/publication/reino-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/reino-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement de méthodes de régression multibloc pour le traitement des données d’épidémiologie vétérinaire. Des besoins statistiques des épidémiologistes au développement d’un package R</title>
+      <link>https://sdray.github.io/publication/bougeard-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional traits reveal processes driving natural afforestation at large spatial scales.</title>
+      <link>https://sdray.github.io/publication/mason-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/mason-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodes de couplage de deux K-tableaux et collections de graphiques</title>
+      <link>https://sdray.github.io/publication/thioulouse-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reciprocal modulation of internal and external factors determines individual movements.</title>
+      <link>https://sdray.github.io/publication/martin-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/martin-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un site web d&#39;enseignement R automatisé et à gestion partagée</title>
+      <link>https://sdray.github.io/publication/penel-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/penel-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ade4: statistical methods and graphical functions for the analysis of multivariate data</title>
+      <link>https://sdray.github.io/publication/dray-2012-b/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ade4: statistical methods and graphical functions for the analysis of multivariate data</title>
+      <link>https://sdray.github.io/publication/dray-2012-a/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing species and community functional responses to environmental gradients: which multivariate methods?</title>
+      <link>https://sdray.github.io/publication/kleyer-2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/kleyer-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse de (K&#43;1) tableaux avec le logiciel ade4. Application en épidémiologie</title>
+      <link>https://sdray.github.io/publication/bougeard-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bougeard-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the effects of spatial contingency and environmental filtering on metacommunity phylogenetics</title>
+      <link>https://sdray.github.io/publication/peres-neto-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community ecology in the age of multivariate multiscale spatial analysis</title>
+      <link>https://sdray.github.io/publication/dray-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling plant trait responses to livestock grazing from spatio-temporal variation: the partial RLQ approach</title>
+      <link>https://sdray.github.io/publication/wesuls-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/wesuls-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to measure and test phylogenetic signal</title>
+      <link>https://sdray.github.io/publication/munkemuller-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/munkemuller-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved testing of species traits-environment relationships in the fourth corner problem</title>
+      <link>https://sdray.github.io/publication/ter-braak-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predator-prey spatial game as a tool to understand the effects of protected areas on harvester-wildlife interactions</title>
+      <link>https://sdray.github.io/publication/tolon-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Harttiini (Siluriformes, Loricariidae) from the Guianas: a multi-table approach to assess their diversity, evolution, and distribution</title>
+      <link>https://sdray.github.io/publication/covain-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation de données multivariées: réimplémentation des fonctionnalités graphiques de la librairie ade4</title>
+      <link>https://sdray.github.io/publication/julien-laferriere-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/julien-laferriere-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking traits to environmental variation</title>
+      <link>https://sdray.github.io/publication/dray-2011-d/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new perspective about Moran&#39;s coefficient: spatial autocorrelation as a linear regression problem</title>
+      <link>https://sdray.github.io/publication/dray-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing spatial multivariate structures</title>
+      <link>https://sdray.github.io/publication/dray-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How can ecological status be summarized for an operational Pressures/States model ?</title>
+      <link>https://sdray.github.io/publication/lalande-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/lalande-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate analysis of ecological data with ade4</title>
+      <link>https://sdray.github.io/publication/dray-2011-c/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships between species feeding traits and environmental conditions in fish communities: a three-matrix approach</title>
+      <link>https://sdray.github.io/publication/brind-amour-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Guerry&#39;s data: introducing spatial constraints in multivariate analysis</title>
+      <link>https://sdray.github.io/publication/dray-2011-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développements méthodologiques autour de l&#39;analyse de données écologiques</title>
+      <link>https://sdray.github.io/publication/dray-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une approche multivariée pour la recherche de structures phylogénétiques dans les données biologiques</title>
+      <link>https://sdray.github.io/publication/jombart-2010-b/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/jombart-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Some elements of) Spatial ecological data analysis</title>
+      <link>https://sdray.github.io/publication/dray-2010-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adephylo: new tools for investigating the phylogenetic signal in biological traits</title>
+      <link>https://sdray.github.io/publication/jombart-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/jombart-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses multivariées et mesures d&#39;autocorrélation spatiale pour l&#39;analyse des assemblages d&#39;espèces</title>
+      <link>https://sdray.github.io/publication/dray-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrigendum to \&#34;Assessing phylogenetic dependence of morphological traits using co-inertia prior to investigate character evolution in Loricariinae catfishes\&#34; Mol. Phylogenet. Evol. 46 (2008) 986-1002 (DOI:10.1016/j.ympev.2007.12.015)</title>
+      <link>https://sdray.github.io/publication/covain-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make love not war: when should less competitive males choose low-quality but defendable females?</title>
+      <link>https://sdray.github.io/publication/venner-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/venner-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some methodological developments around the spatial weighting matrix in ecology</title>
+      <link>https://sdray.github.io/publication/dray-2010-d/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The exploratory analysis of autocorrelation in animal-movement studies</title>
+      <link>https://sdray.github.io/publication/dray-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting phylogenetic signal in morphometric data to complete molecular phylogenies: a case study on Harttiini (Siluriformes, Loricariidae) from the Guianas</title>
+      <link>https://sdray.github.io/publication/covain-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding essential scales of spatial variation in ecological data: a multivariate approach</title>
+      <link>https://sdray.github.io/publication/jombart-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/jombart-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les Harttiini (Siluriformes, Loricariidae) des Guyanes : phylogénie et évolution des formes ou variation sur un même thème.</title>
+      <link>https://sdray.github.io/publication/covain-2009-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogeny and evolution of shapes: a new approach to predict phylogenetic positions of missing taxa</title>
+      <link>https://sdray.github.io/publication/covain-2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responding to spatial and temporal variations in predation risk: space use of a game species in a changing landscape of fear</title>
+      <link>https://sdray.github.io/publication/tolon-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The concept of animals trajectories from a data analysis perspective</title>
+      <link>https://sdray.github.io/publication/calenge-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/calenge-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing or explaining beta diversity? Comment.</title>
+      <link>https://sdray.github.io/publication/pelissier-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing phylogenetic dependence of morphological traits using co-inertia prior to investigate character evolution in Loricariinae catfishes</title>
+      <link>https://sdray.github.io/publication/covain-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the number of principal components: A test of dimensionality based on measurements of similarity between matrices</title>
+      <link>https://sdray.github.io/publication/dray-2008-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial ordination of vegetation data using a generalization of Wartenberg&#39;s multivariate spatial correlation</title>
+      <link>https://sdray.github.io/publication/dray-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the species traits-environment relationships: the fourth-corner problem revisited</title>
+      <link>https://sdray.github.io/publication/dray-2008-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unexpected male choosiness for mates in a spider</title>
+      <link>https://sdray.github.io/publication/bel-venner-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bel-venner-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>\&#34;Reserve effect\&#34; on the space use of game mammals: the case of wild boar</title>
+      <link>https://sdray.github.io/publication/tolon-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive multivariate data analysis in R with the ade4 and ade4TkGUI packages</title>
+      <link>https://sdray.github.io/publication/thioulouse-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/thioulouse-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale assessment of the functional relationships between species traits and environmental conditions for littoral fish communities</title>
+      <link>https://sdray.github.io/publication/brind-amour-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/brind-amour-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing sexual segregation and aggregation: old ways are best</title>
+      <link>https://sdray.github.io/publication/bonenfant-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/bonenfant-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ade4 package - II: Two-table and K-table methods</title>
+      <link>https://sdray.github.io/publication/dray-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ade4 package: implementing the duality diagram for ecologists</title>
+      <link>https://sdray.github.io/publication/dray-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse morphologique et phylogénétique de la sous famille des Loricariinae (Siluriformes, Loricariidae)</title>
+      <link>https://sdray.github.io/publication/covain-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of hunting activities on the spatial behaviour of the wild boar: attractiveness of safe areas</title>
+      <link>https://sdray.github.io/publication/tolon-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tolon-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological and phylogenetic study of the subfamily Loricariinae (Siluriformes, Loricariidae)</title>
+      <link>https://sdray.github.io/publication/covain-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource partitioning in a grazer guild feeding on a multilayer diatom mat</title>
+      <link>https://sdray.github.io/publication/tall-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/tall-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial modeling: a comprehensive framework for principal coordinate analysis of neighbor matrices (PCNM)</title>
+      <link>https://sdray.github.io/publication/dray-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation partitioning of species data matrices: estimation and comparison of fractions</title>
+      <link>https://sdray.github.io/publication/peres-neto-2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking into account spatial dependence in multivariate analysis: a generalization of Wartenberg&#39;s multivariate spatial correlation</title>
+      <link>https://sdray.github.io/publication/dray-2005-a/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling principal component analysis and GIS to map deer habitats</title>
+      <link>https://sdray.github.io/publication/pettorelli-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial modeling: a comprehensive framework for distance-based eigenvector maps (DBEM)</title>
+      <link>https://sdray.github.io/publication/dray-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation partitioning of species data matrices: estimation and comparison of fractions</title>
+      <link>https://sdray.github.io/publication/peres-neto-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/peres-neto-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nouvelles méthodes d&#39;analyse spatiale multivariée de données incomplètes</title>
+      <link>https://sdray.github.io/publication/dray-2004/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two solutions to the fourth corner problem</title>
+      <link>https://sdray.github.io/publication/legendre-2004/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/legendre-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse spatialisée de données écologiques multivariées</title>
+      <link>https://sdray.github.io/publication/dray-2003-a/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad-scale biodiversity pattern of the endemic tree flora of the Western Ghats (India) using canonical correlation analysis of herbarium records</title>
+      <link>https://sdray.github.io/publication/gimaret-carpentier-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/gimaret-carpentier-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartographie et analyse de données multivariées</title>
+      <link>https://sdray.github.io/publication/dray-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-inertia analysis and the linking of ecological data tables</title>
+      <link>https://sdray.github.io/publication/dray-2003-c/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency between ordination techniques and diversity measurements: two alternative strategies for species occurrence data</title>
+      <link>https://sdray.github.io/publication/pelissier-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Couplage de données issues de deux plans d&#39;échantillonnage distincts d&#39;un même espace</title>
+      <link>https://sdray.github.io/publication/dray-2003-e/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eléments d&#39;interface entre analyses multivariées, systèmes d&#39;information géographique et observations écologiques</title>
+      <link>https://sdray.github.io/publication/dray-2003-f/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate analysis of incomplete mapped data</title>
+      <link>https://sdray.github.io/publication/dray-2003-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procrustean co-inertia analysis for the linking of multivariate data sets</title>
+      <link>https://sdray.github.io/publication/dray-2003-d/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2003-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial variation in springtime food resources influences the winter body mass of roe deer fawn</title>
+      <link>https://sdray.github.io/publication/pettorelli-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching data sets from two different spatial samples</title>
+      <link>https://sdray.github.io/publication/dray-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling bovine trypanosomosis spatial distribution by GIS in an agro-pastoral zone of Burkina Faso</title>
+      <link>https://sdray.github.io/publication/michel-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/michel-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The distribution of preferred plant species in spring determines spatial variation in the body mass of roe deer fawns in winter</title>
+      <link>https://sdray.github.io/publication/pettorelli-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pettorelli-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Within-plot relationships between tree species occurrences and hydrological soil constraints: an example in French Guiana investigated through canonical correlation analysis</title>
+      <link>https://sdray.github.io/publication/pelissier-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/pelissier-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systèmes d&#39;information géographique : une application à la modélisation d&#39;une maladie à transmission vectorielle au Burkina Faso</title>
+      <link>https://sdray.github.io/publication/dray-2001/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling bovine trypanosomosis spatial distribution by GIS in an agro-pastoral zone of Burkina Faso</title>
+      <link>https://sdray.github.io/publication/michel-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/michel-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;ordination des listes d&#39;occurrences : quand l&#39;analyse canonique des correspondances est une analyse canonique</title>
+      <link>https://sdray.github.io/publication/dray-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation des listes d&#39;occurrences spécifiques spatialisées en écologie et biogéographie</title>
+      <link>https://sdray.github.io/publication/dray-1999-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/dray-1999-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

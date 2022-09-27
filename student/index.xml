@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current and past members | Stéphane Dray</title>
+    <link>https://sdray.github.io/student/</link>
+      <atom:link href="https://sdray.github.io/student/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current and past members</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 17:11:18 +0100</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Current and past members</title>
+      <link>https://sdray.github.io/student/</link>
+    </image>
+    
+  </channel>
+</rss>

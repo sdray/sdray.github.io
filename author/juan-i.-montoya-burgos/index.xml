@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan I. Montoya-Burgos | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/juan-i.-montoya-burgos/</link>
+      <atom:link href="https://sdray.github.io/author/juan-i.-montoya-burgos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan I. Montoya-Burgos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Juan I. Montoya-Burgos</title>
+      <link>https://sdray.github.io/author/juan-i.-montoya-burgos/</link>
+    </image>
+    
+    <item>
+      <title>Molecular phylogeny of the highly diversified catfish subfamily Loricariinae (Siluriformes, Loricariidae) reveals incongruences with morphological classification</title>
+      <link>https://sdray.github.io/publication/covain-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/covain-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia S Joswig | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/julia-s-joswig/</link>
+      <atom:link href="https://sdray.github.io/author/julia-s-joswig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia S Joswig</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Julia S Joswig</title>
+      <link>https://sdray.github.io/author/julia-s-joswig/</link>
+    </image>
+    
+    <item>
+      <title>The global spectrum of plant form and function</title>
+      <link>https://sdray.github.io/publication/diaz-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/diaz-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

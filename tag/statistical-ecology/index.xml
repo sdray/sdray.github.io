@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Ecology | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/statistical-ecology/</link>
+      <atom:link href="https://sdray.github.io/tag/statistical-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Ecology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistical Ecology</title>
+      <link>https://sdray.github.io/tag/statistical-ecology/</link>
+    </image>
+    
+    <item>
+      <title>GdR EcoStat</title>
+      <link>https://sdray.github.io/project/gdr-ecostat/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/project/gdr-ecostat/</guid>
+      <description>&lt;p&gt;The GdR 3645 &lt;em&gt;Ecologie Statistique&lt;/em&gt; is funded by the CNRS INEE. It proposes actions to favor exchanges between french scientists interested in the development and application of statistical methods to answer questions of ecology and evolutionary biology. It facilitates knowledge transfer and exchanges between evolutionary biologists, ecologists and statisticians in order to improve the analysis and processing of biological data.&lt;/p&gt;
+&lt;p&gt;The main objectives of the GDR EcoStat are to&lt;/p&gt;
+&lt;p&gt;(i) evaluate existing statistical methods,&lt;/p&gt;
+&lt;p&gt;ii) to explore the application of recent methods often unknown to ecologists and evolutionary biologists,&lt;/p&gt;
+&lt;p&gt;iii) develop new statistical approaches and&lt;/p&gt;
+&lt;p&gt;iv) to ensure knowledge transfer to potential users of these methods.&lt;/p&gt;
+&lt;p&gt;See more details on the Ecostat &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple parametric tests for trait–environment association</title>
+      <link>https://sdray.github.io/publication/ter-braak-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ter-braak-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

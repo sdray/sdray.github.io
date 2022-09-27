@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lovelater Sebele | Stéphane Dray</title>
+    <link>https://sdray.github.io/author/lovelater-sebele/</link>
+      <atom:link href="https://sdray.github.io/author/lovelater-sebele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lovelater Sebele</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Lovelater Sebele</title>
+      <link>https://sdray.github.io/author/lovelater-sebele/</link>
+    </image>
+    
+    <item>
+      <title>Long‐term high densities of African elephants clear the understorey and promote a new stable savanna woodland community</title>
+      <link>https://sdray.github.io/publication/ferry-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity of water physico-chemical characteristics in artificially pumped waterholes: do African herbivores drink at the same locations and does it lead to interference competition?</title>
+      <link>https://sdray.github.io/publication/ferry-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/ferry-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

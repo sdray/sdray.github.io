@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muséum | Stéphane Dray</title>
+    <link>https://sdray.github.io/tag/museum/</link>
+      <atom:link href="https://sdray.github.io/tag/museum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muséum</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sdray.github.io/images/icon_hu6261ab87d1c81cb033f1e4b4983c301c_1287_512x512_fill_lanczos_center_2.png</url>
+      <title>Muséum</title>
+      <link>https://sdray.github.io/tag/museum/</link>
+    </image>
+    
+    <item>
+      <title>Broad-scale biodiversity pattern of the endemic tree flora of the Western Ghats (India) using canonical correlation analysis of herbarium records</title>
+      <link>https://sdray.github.io/publication/gimaret-carpentier-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://sdray.github.io/publication/gimaret-carpentier-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
